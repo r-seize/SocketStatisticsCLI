@@ -1,0 +1,7 @@
+{
+   "files.associations": {
+      "user_interface.h": "c",
+      "ss_commands.h": "c",
+      "utiles.h": "c"
+   }
+}
